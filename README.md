@@ -1,1 +1,1 @@
-"# Some code I wrote throughout the semester on Numerical methods" 
+A repo for Numerical Method codes 
